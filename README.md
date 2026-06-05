@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Abhijeet Yadav
+# Hi, I'm Abhijeet Yadav
 
-### 🚀 Full Stack Software Developer | Web Developer | Mobile App Developer | AI Enthusiast
+### Full Stack Software Developer | Web Developer | Mobile App Developer | AI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Web+Developer;React+Native+Developer;AI+Powered+Solutions+Builder;Always+Learning+New+Technologies" alt="Typing SVG" />
 
@@ -14,11 +14,11 @@
 
 🎓 BCA Graduate (2023–2026)
 
-💻 Passionate Full Stack Software Developer with experience in building modern web applications, mobile applications, backend systems, databases, APIs, and AI-powered solutions.
+Passionate Full Stack Software Developer with experience in building modern web applications, mobile applications, backend systems, databases, APIs, and AI-powered solutions.
 
-🚀 Creator of **XPERTMIND** – An AI-Powered Hybrid Mobile & Web Application.
+ Creator of **XPERTMIND** – An AI-Powered Hybrid Mobile & Web Application.
 
-🌱 Currently exploring:
+ Currently exploring:
 
 * Full Stack Development
 * System Design
@@ -32,15 +32,15 @@
 
 ## 🚀 What I Do
 
-* 🌐 Web Development
-* 📱 Mobile App Development
-* ⚙️ Backend Development
-* 🗄️ Database Design & Management
-* 🔐 Authentication & Authorization Systems
-* ☁️ Firebase & Cloud Integrations
-* 🤖 AI-Powered Application Development
-* 💬 Real-Time Chat Applications
-* 🔗 REST API Development
+*  Web Development
+*  Mobile App Development
+*  Backend Development
+*  Database Design & Management
+*  Authentication & Authorization Systems
+*  Firebase & Cloud Integrations
+*  AI-Powered Application Development
+*  Real-Time Chat Applications
+*  REST API Development
 
 ---
 
@@ -84,7 +84,7 @@ Java • JavaScript • Visual Basic • SQL
 
 ## 🚀 Featured Project
 
-# 🤖 XPERTMIND
+#  XPERTMIND
 
 AI-Powered Hybrid Mobile & Web Platform
 
